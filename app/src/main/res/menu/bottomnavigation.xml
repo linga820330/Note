@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/na_Note"
+        android:title="小筆記"
+        android:icon="@drawable/note"
+        />
+    <item
+        android:id="@+id/na_Money"
+        android:title="記帳"
+        android:icon="@drawable/ic_money3"
+        />
+    <item
+        android:id="@+id/na_Secret"
+        android:title="秘密"
+        android:icon="@drawable/king"
+        />
+</menu>
